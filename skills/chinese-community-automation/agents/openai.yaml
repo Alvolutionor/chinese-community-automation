@@ -1,0 +1,4 @@
+interface:
+  display_name: "Chinese Community Automation"
+  short_description: "Find Chinese community needs and draft honest replies"
+  default_prompt: "Use $chinese-community-automation to find genuine requests in Chinese communities for my product and draft useful replies."
